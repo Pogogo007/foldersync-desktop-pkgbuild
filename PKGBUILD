@@ -1,3 +1,4 @@
+#Maintainer Nekoh
 pkgname="foldersync-desktop"
 pkgver=1.2.0
 pkgrel=1
